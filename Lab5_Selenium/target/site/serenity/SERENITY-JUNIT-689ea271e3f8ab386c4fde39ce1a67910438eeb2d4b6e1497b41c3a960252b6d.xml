@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.example.features.search.SearchByKeywordStory" skipped="0" tests="1" time="2.9" timestamp="2023-05-20 07:07:16"><testcase classname="org.example.features.search.SearchByKeywordStory" name="Log in"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+org.example.steps.serenity.EndUserSteps.login(EndUserSteps.java:31)&#13;
+org.example.features.search.SearchByKeywordStory.logIn(SearchByKeywordStory.java:72)&#13;
+</system-err></testcase></testsuite>

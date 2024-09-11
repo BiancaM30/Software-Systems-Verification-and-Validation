@@ -1,0 +1,9 @@
+org\example\pages\CheckoutPage.class
+org\example\features\login\Login.class
+org\example\pages\HomePage.class
+org\example\pages\CartPage.class
+org\example\steps\serenity\AddToCartSteps.class
+org\example\steps\serenity\CheckoutSteps.class
+org\example\steps\serenity\LoginSteps.class
+org\example\pages\LoginPage.class
+org\example\steps\serenity\LogoutSteps.class

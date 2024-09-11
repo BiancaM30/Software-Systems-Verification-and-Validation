@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: org.example.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.194 s <<< FAILURE! - in org.example.features.search.SearchByKeywordStory
+logIn(org.example.features.search.SearchByKeywordStory)  Time elapsed: 2.92 s  <<< ERROR!
+net.thucydides.core.webdriver.DriverConfigurationError: 
+Could not instantiate new WebDriver instance of type class org.openqa.selenium.firefox.FirefoxDriver (Failed to set preferences: Unable to write Firefox profile: The process cannot access the file because it is being used by another process. (os error 32)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FEJLOP6E', ip: '192.168.1.161', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: ). See below for more details.
+	at org.example.features.search.SearchByKeywordStory.logIn(SearchByKeywordStory.java:72)
+

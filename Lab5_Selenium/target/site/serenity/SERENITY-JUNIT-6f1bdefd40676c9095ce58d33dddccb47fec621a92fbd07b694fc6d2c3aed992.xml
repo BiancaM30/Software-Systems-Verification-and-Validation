@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.example.features.search.SearchByKeywordCSV" skipped="0" tests="1" time="2.59" timestamp="2023-05-20 06:31:49"><testcase classname="org.example.features.search.SearchByKeywordCSV" name="Searching by keyword apple should display the corresponding article"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+org.example.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)&#13;
+org.example.features.search.SearchByKeywordCSV.searching_by_keyword_apple_should_display_the_corresponding_article(SearchByKeywordCSV.java:34)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase></testsuite>
